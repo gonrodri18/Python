@@ -1,4 +1,5 @@
 #Escribir un programa que almacene los vectores (1,2,3) y (-1,0,2) en dos tuplas y muestre por pantalla su producto escalar.
+
 V1 = [1,2,3]
 V2 = [-1,0,2]
 product = 0
